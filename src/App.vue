@@ -17,7 +17,7 @@
 </template>
 
 <script>
-import Dropdown from './components/Dropdown/Dropdown.vue';
+import Dropdown from './components/Dropdown.vue';
 
 export default {
   name: 'App',
