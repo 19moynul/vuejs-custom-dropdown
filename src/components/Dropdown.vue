@@ -10,7 +10,7 @@
 </template>
 
 <script>
-import './dropdown.scss';
+import '@/assets/dropdown.scss';
 export default {
     name: 'DropdownMenu',
     props: {
